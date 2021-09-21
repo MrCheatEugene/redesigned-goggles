@@ -11,4 +11,11 @@ Example: http://127.0.0.1/video.php?v=DLzxrzFCyOs
 
 If you did everything right, it will return JSON string. 
 
-Read more info in file itself, i'm too lazy to update readme.md.
+Also, if you are using 1.1 or later, you can use built-in interface(Search+Player)
+
+## BIG thanks to
+Video.js http://videojs.org
+
+That one guy from stackoverflow https://stackoverflow.com/a/68492807
+
+for solivng all of my problems.
